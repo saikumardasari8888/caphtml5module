@@ -4,7 +4,7 @@
 |**Generation Date and Time**<br>Wed May 20 2026 17:44:30 GMT+0000 (Coordinated Universal Time)|
 |**App Generator**<br>SAP Fiori Application Generator|
 |**App Generator Version**<br>1.24.0|
-|**Generation Platform**<br>SAP Business Application Studio|
+|**Generation Platform**<br>SAP Business Application Studio|test
 |**Template Used**<br>Basic|
 |**Service Type**<br>None|test
 |**Service URL**<br>N/A|

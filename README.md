@@ -6,7 +6,7 @@
 |**App Generator Version**<br>1.24.0|
 |**Generation Platform**<br>SAP Business Application Studio|
 |**Template Used**<br>Basic|
-|**Service Type**<br>None|
+|**Service Type**<br>None|test
 |**Service URL**<br>N/A|
 |**Module Name**<br>html5module|
 |**Application Title**<br>HTML5Module App Title|

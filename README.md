@@ -1,12 +1,12 @@
 ## Application Details
 |               |
 | ------------- |
-|**Generation Date and Time**<br>Wed May 20 2026 17:44:30 GMT+0000 (Coordinated Universal Time)|
+|**Generation Date and Time**<br>Wed May 20 2026 17:44:30 GMT+0000 (Coordinated Universal Time)|testinggg
 |**App Generator**<br>SAP Fiori Application Generator|
 |**App Generator Version**<br>1.24.0|
-|**Generation Platform**<br>SAP Business Application Studio|
+|**Generation Platform**<br>SAP Business Application Studio|test
 |**Template Used**<br>Basic|
-|**Service Type**<br>None|
+|**Service Type**<br>None|test
 |**Service URL**<br>N/A|
 |**Module Name**<br>html5module|
 |**Application Title**<br>HTML5Module App Title|
@@ -14,11 +14,11 @@
 |**UI5 Theme**<br>sap_horizon|
 |**UI5 Version**<br>1.148.0|
 |**Enable TypeScript**<br>False|
-|**Add Eslint configuration**<br>True, see https://www.npmjs.com/package/@sap-ux/eslint-plugin-fiori-tools#rules for the eslint rules.|
+|**Add Eslint configuration**<br>True, see https://www.npmjs.com/package/@sap-ux/eslint-plugin-fiori-tools#rules for the eslint rules.|Testing
 
 ## html5module
 
-An HTML5Module SAP Fiori application. sampling 
+An HTML5Module SAP Fiori application. sampling change from the feature/us_notification branch required one more Committ to test
 
 ### Starting the generated app
 

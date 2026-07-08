@@ -19,7 +19,8 @@
 
 ## html5module
 
-An HTML5Module SAP Fiori application. sampling change from the feature/us_notification branch required one more Committ to test
+An HTML5Module SAP Fiori application. sampling change from the feature/us_notification branch email notification branch has been created for another commit test
+An HTML5Module SAP Fiori application. sampling change from the feature/us_notification branch required one more Committ to test testing.. 
 
 ### Starting the generated app
 

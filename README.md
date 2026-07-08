@@ -15,10 +15,12 @@
 |**UI5 Version**<br>1.148.0|
 |**Enable TypeScript**<br>False|
 |**Add Eslint configuration**<br>True, see https://www.npmjs.com/package/@sap-ux/eslint-plugin-fiori-tools#rules for the eslint rules.|Testing
+|**Add Eslint configuration**<br>True, see https://www.npmjs.com/package/@sap-ux/eslint-plugin-fiori-tools#rules for the eslint rules.| test
 
 ## html5module
 
-An HTML5Module SAP Fiori application. sampling change from the feature/us_notification branch required one more Committ to test
+An HTML5Module SAP Fiori application. sampling change from the feature/us_notification branch email notification branch has been created for another commit test
+An HTML5Module SAP Fiori application. sampling change from the feature/us_notification branch required one more Committ to test testing.. 
 
 ### Starting the generated app
 

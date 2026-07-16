@@ -1,5 +1,5 @@
 ## Application Details
-|               |winfid flow testing
+|               |winfid flow testing  Cross Verififcationtest QA Testing
 | ------------- | updated readme file
 |**Generation Date and Time**<br>Wed May 20 2026 17:44:30 GMT+0000 (Coordinated Universal Time)|testinggg
 |**App Generator**<br>SAP Fiori Application Generator|

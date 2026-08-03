@@ -10,6 +10,9 @@
   "main": "webapp/index.html",
   "devDependencies": {
     "@sap-ux/eslint-plugin-fiori-tools": "^10.0.0",
+    "eslint": "^9.39.0",
+    "ui5-task-zipper": "^3.4.x",
+    "rimraf": "^5.0.5",
     "@sap/ui5-builder-webide-extension": "1.0.x",
     "@sap/ux-ui5-tooling": "1",
     "@sapui5/ts-types": "1.71.x",

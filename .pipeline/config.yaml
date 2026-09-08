@@ -1,0 +1,7 @@
+general:
+  buildTool: "npm"
+steps:
+  mtaBuild:
+    applicationName: "tutorial"
+    buildTarget: "CF"
+    dockerImage: "devxci/mbtci-java21-node22"

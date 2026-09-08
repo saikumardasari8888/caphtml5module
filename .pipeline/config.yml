@@ -1,0 +1,6 @@
+general:
+  buildTool: "npm"
+steps:
+  mtaBuild:
+    applicationName: "tutorial"
+    buildTarget: "CF"
